@@ -1,6 +1,10 @@
 final-project-template
 ==============================
 
+- Google Colab [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BIOF309/final-project-nlm/blob/master/NLM%20data_FINAL.ipynb)
+- Jupyter Lab [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BIOF309/final-project-nlm/master?urlpath=lab/NLM%20data_FINAL.ipynb)
+- Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BIOF309/final-project-nlm/master?filepath=notebooks%2FIndex.ipynb)
+
 A template I recommend for final projects. Feel free to modify as needed!
 Based on Cookiecutter Data Science:
 
