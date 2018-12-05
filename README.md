@@ -1,3 +1,20 @@
+# HealthReach Data Visualizations
+Final Project, FAES BIOF 309 Introduction to Python, Fall 2018
+Laura Bartlett (bartlettl@mail.nih.gov) and In Hye Cho (in-hye.cho@nih.gov)
+
+HealthReach (http://healthreach.nlm.nih.gov) is a National Library of Medicine (NLM) resource that provides access to free low literacy, multilingual patient education materials to be used by healthcare providers. The purpose of this project is to efficiently explore HealthReach data and create easy-to-read visualizations using Python for data anyalsis also known as "pandas".
+
+##Motivation
+Healthcare providers often self-identify as being "not tech savvy" and are intimidated by technologies such as an application programming interface (API). This project exists to decrease the technology barrier healthcare providers face when discussing the use of an application programming interface (API) to search and retrieve HealthReach content. The use of easy-to-read and non-intimidating visuals will help end-users become more familiar with HealthReach data.
+
+##Development Environment
+Jupyter Notebook on Windows 10, Anaconda, PyCharm
+
+##License
+MIT © 
+
+
+
 final-project-template
 ==============================
 
