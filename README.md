@@ -19,6 +19,7 @@ Here are some examples.
 Sample output is:
 
 HealthReach Materials
+
 ![HealthReach Materials by Type Pie Chart](examples/piechart.png)
 
 Here's another sample output:
@@ -38,6 +39,9 @@ The MIT License (MIT)
 Copyright (c) 2018, biof309
 
 --------------
+
+
+
 Suggested final-project-template
 ==============================
 
